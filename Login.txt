@@ -1,2 +1,2 @@
-Inicio do Login
-Fim do Login
+Inicio do Login.
+Finalização do Login.
